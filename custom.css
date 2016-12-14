@@ -1,0 +1,43 @@
+// noahr custom
+
+	html{font-family:sans-serif;	font-size: 14px;
+}
+
+	body{margin:0;
+	background-color:#ddd;
+	color:#0000ff;
+	}
+	
+	a.slink {
+	display:inline-block;
+	font-family:sans-serif;
+	font-size: 16px;
+	background-color:#ffa500;
+	color:#0000ff;
+	}
+	
+	a.slink:hover {
+	display:inline-block;
+	font-family:sans-serif;
+	font-size: 16px;
+	background-color:#ffff00;
+	color:#ffff00;
+	}
+	
+	a.menu{
+	display:inline-block;
+	font-family:sans-serif;
+	font-size: 18px;
+	background-color:#ffff00;
+	color:#0000ff;
+	border-style: solid;
+	border-color: red;
+	padding: 5px 5px 5px 5px;
+	border-width: 5px 5px 5px 5px;
+	
+	}
+	
+	a.menu:hover {
+	font-family:sans-serif;
+	color:#ffa500;
+	}
